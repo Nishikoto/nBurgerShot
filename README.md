@@ -10,7 +10,6 @@ Features
 - Boss menu
 
 Everything is configurable
-Made with ESX/ RageUI
 
 ![image](https://user-images.githubusercontent.com/80398278/220982007-3b942dfc-2624-4f60-9f1f-f335b679dc8e.png)
 ![image](https://user-images.githubusercontent.com/80398278/220982021-75b454b3-8dbe-4eed-96ac-724436269486.png)
