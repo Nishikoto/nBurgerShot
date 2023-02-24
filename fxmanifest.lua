@@ -2,9 +2,9 @@ fx_version 'adamant'
 game 'gta5'
 
 author "NHK [Nishikoto]"
-scriptname "nKey"
+scriptname "nBurgerShot"
 desc  "Menu touche avec RageUI / ESX"
-version "2.0" -- Nouvelle version
+version "1.0"
 
 
 client_scripts {
